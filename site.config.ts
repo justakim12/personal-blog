@@ -54,6 +54,10 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
+      title: 'Side Projects',
+      pageId: '6cf0d1b4a993405b95702cdb1db5d874'
+    },
+    {
       title: 'About',
       pageId: '34a443fc036b4595ac4aab0799277b45'
     },
