@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Kyungil Davids Blog',
-  domain: 'https://kyungils-blog.vercel.app/',
+  domain: 'kyungils-blog.vercel.app',
   author: 'Kyungil David Kim',
 
   // open graph metadata (optional)
