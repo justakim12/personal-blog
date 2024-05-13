@@ -9,8 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Kyungil Davids Blog',
-  domain: 'kyungils-blog.vercel.app',
+  name: "Kyungil David's Blog",
+  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
   author: 'Kyungil David Kim',
 
   // open graph metadata (optional)
