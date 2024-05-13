@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Kyungil David Kim',
 
   // open graph metadata (optional)
-  description: 'Kyungil Davids Blog',
+  description: 'Personal blog site of Kyungil David Kim',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
