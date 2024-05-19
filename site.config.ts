@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: "Kyungil David's Blog",
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'kyungil-david.notion.site',
   author: 'Kyungil David Kim',
 
   // open graph metadata (optional)
