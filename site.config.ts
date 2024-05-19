@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: "Kyungil David's Blog",
-  domain: 'kyungil-david.notion.site',
+  domain: 'kyungil-davids-blog.vercel.app',
   author: 'Kyungil David Kim',
 
   // open graph metadata (optional)
